@@ -1,0 +1,51 @@
+hospital_name,full_address,classification,ownership,region,city
+Caloocan City Medical Center,"450 A. Mabini St., Caloocan City",LGU,Government,NCR,Caloocan City
+Ospital ng Malabon,"F. Sevilla Boulevard, Tañong, Malabon City",LGU,Government,NCR,Malabon City
+San Lorenzo Ruiz General Hospital,"O. Reyes St., Rosita Subdivision, Santulan, Malabon City",DOH Retained,Government,NCR,Malabon City
+Gat Andres Bonifacio Memorial Medical Center,"8001 Delpan St., Tondo, Manila",LGU,Government,NCR,Manila
+Ospital ng Tondo,"Jose Abad Santos Avenue, Tondo, Manila",LGU,Government,NCR,Manila
+Justice Jose Abad Santos General Hospital,"Numancia St., Binondo, Manila",LGU,Government,NCR,Manila
+Ospital ng Sampaloc,"677 Geronimo St., cor. Carola St., Sampaloc, Manila",LGU,Government,NCR,Manila
+Navotas City Hospital,"M. Naval St., Brgy. San Jose, Navotas City",LGU,Government,NCR,Navotas City
+Ospital ng Parañaque,"0440 Quirino Ave., La Huerta, Parañaque City",LGU,Government,NCR,Parañaque City
+Ospital ng Parañaque District II,"187 Taiwan Extension Corner Doña Soledad Avenue, Don Bosco, Parañaque City",LGU,Government,NCR,Parañaque City
+Novaliches District Hospital,"Quirino Highway, San Bartolome, Novaliches, Quezon City",LGU,Government,NCR,Quezon City
+San Juan Medical Center,"N. Domingo St., San Juan City",LGU,Government,NCR,San Juan City
+Army General Hospital,"Fort Andres Bonifacio, Taguig City",AFP,Government,NCR,Taguig City
+Manila Naval Hospital,"Naval Station, Jose Francisco, Fort Bonifacion, Taguig City",AFP,Government,NCR,Taguig City
+Taguig City General Hospital,"C-6 Road, Hagonoy, Taguig",LGU,Government,NCR,Taguig
+Taguig–Pateros District Hospital,"East Service Road, Western Bicutan, Taguig",LGU,Government,NCR,Taguig
+Santa Ana Hospital,"New Panaderos St., Sta. Ana, Manila",LGU,Government,NCR,Manila
+Mandaluyong City Medical Center,"605 Boni Avenue, Mandaluyong City",LGU,Government,NCR,Mandaluyong City
+Air Force General Hospital,"Gozar St., Colonel Jesus Villamor Air Base, Pasay City",PAF,Government,NCR,Pasay City
+Pasig City Children's Hospital – Child's Hope,"Industria St. cor. Alcalde Jose St., Kapasigan, Pasig City",LGU,Government,NCR,Pasig City
+PNP General Hospital,"Camp Crame, Quezon City",PNP,Government,NCR,Quezon City
+Rosario Maclang Bautista General Hospital,"IBP Road, Batasan Hills, District 2, Quezon City",LGU,Government,NCR,Quezon City
+Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium,"St. Joseph Avenue (Dr. Uyguanco Street), Tala, Caloocan City",DOH Retained,Government,NCR,Caloocan City
+Las Piñas General Hospital and Satellite Trauma Center,"Bernabe Compound, Pulanglupa, Las Piñas City",DOH Retained,Government,NCR,Las Piñas City
+Dr. Jose Fabella Memorial Hospital,"Lope de Vega St., Sta. Cruz, Manila",DOH Retained,Government,NCR,Manila
+Jose R. Reyes Memorial Medical Center,"San Lazaro Compound, Rizal Avenue, Sta. Cruz, Manila",DOH Retained,Government,NCR,Manila
+San Lazaro Hospital,"Quiricada St., Sta. Cruz, Manila",DOH Retained,Government,NCR,Manila
+Tondo Medical Center,"Honorio Lopez Boulevard., Balut, Tondo, Manila",DOH Retained,Government,NCR,Manila
+Philippine General Hospital,"Taft Avenue, Ermita, Manila",University,Government,NCR,Manila
+Ospital ng Maynila Medical Center,"Pres. Quirino Avenue, cor. Roxas Blvd., Malate, Manila",LGU,Government,NCR,Manila
+National Center for Mental Health,"#9 De Febrero St., Mandaluyong City",DOH Retained,Government,NCR,Mandaluyong City
+Ospital ng Makati,"Sampaguita St. cor. Gumamela St., Brgy. Pembo, Makati City",LGU,Government,NCR,Makati City
+Amang Rodriguez Memorial Medical Center,"Sumulong Highway, Brgy. Sto. Niño, Marikina City",DOH Retained,Government,NCR,Marikina City
+Ospital ng Muntinlupa,"Civic Drive, Filinvest Corporate City, Alabang, Muntinlupa City",LGU,Government,NCR,Muntinlupa City
+Research Institute for Tropical Medicine,"Filinvest Corporate City, Alabang, Muntinlupa City",DOH Retained,Government,NCR,Muntinlupa City
+Pasay City General Hospital,"P. Burgos St., Pasay City",LGU,Government,NCR,Pasay City
+Rizal Medical Center,"Pasig Boulevard, Bagong Ilog, Pasig City",DOH Retained,Government,NCR,Pasig City
+Pasig City General Hospital,"M. Eusebio Avenue, Maybunga, Pasig City",LGU,Government,NCR,Pasig City
+Veterans Memorial Medical Center,"North Avenue, Diliman, Quezon City",DND,Government,NCR,Quezon City
+Philippine Heart Center,"East Avenue, Diliman, Quezon City",GOCC,Government,NCR,Quezon City
+National Kidney and Transplant Institute,"East Avenue, Diliman, Quezon City",GOCC,Government,NCR,Quezon City
+Philippine Children's Medical Center,"Quezon Avenue corner Senator Miriam P. Defensor-Santiago Avenue, Diliman, Quezon City",GOCC,Government,NCR,Quezon City
+Victoriano Luna Medical Center,"V. Luna Road, Quezon City",AFP,Government,NCR,Quezon City
+East Avenue Medical Center,"East Avenue, Quezon City",DOH Retained,Government,NCR,Quezon City
+Philippine Orthopedic Center,"Ma. Clara St. cor. Banawe St., Quezon City",DOH Retained,Government,NCR,Quezon City
+Quezon City General Hospital,"Seminary Road, EDSA, Quezon City",LGU,Government,NCR,Quezon City
+Lung Center of the Philippines,"Quezon Avenue, Quezon City",GOCC,Government,NCR,Quezon City
+National Children’s Hospital,"#226 E. Rodriguez Sr. Boulevard, Quezon City",DOH Retained,Government,NCR,Quezon City
+Quirino Memorial Medical Center,"Katipunan Road, Project 4, Quezon City",DOH Retained,Government,NCR,Quezon City
+Valenzuela Medical Center,"Padrigal St., Karuhatan, Valenzuela City",DOH Retained,Government,NCR,Valenzuela City
